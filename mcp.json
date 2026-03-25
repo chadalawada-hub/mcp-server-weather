@@ -1,0 +1,14 @@
+
+{
+  "mcpServers": {
+    "weather": {
+      "command": "/opt/homebrew/bin/uv",
+      "args": [
+        "--directory",
+        "/Users/muralichadalawada/Documents/Projects/nasa_pic/mcp-server-weather",
+        "run",
+        "weather.py"
+      ]
+    }
+  }
+}
